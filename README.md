@@ -1,1 +1,2 @@
 # [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
+A Sudoku Solver project forked from freeCodeCamp.org in GitHub. Then completed or solve it in my personal laptop.
